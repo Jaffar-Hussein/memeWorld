@@ -13,15 +13,14 @@
   },
   "devDependencies": {
     "json-server": "^0.15.1"
-    },
-    "scripts": {
+  },
+  "scripts": {
     "start": "react-scripts start",
     "server": "json-server --watch db.json -p 8002",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    },
-    
+  },
   "eslintConfig": {
     "extends": [
       "react-app",

@@ -1,145 +1,144 @@
 {
     "categories": [
-    {
-    "name": "Nonsencial"
-    },
-    {
-    "name": "Classic"
-    },
-    {
-    "name": "Dark"
-    },
-    {
-    "name": "Social Media"
-    }
+        {
+            "name": "Nonsencial"
+        },
+        {
+            "name": "Classic"
+        },
+        {
+            "name": "Dark"
+        },
+        {
+            "name": "Social Media"
+        }
     ],
     "memes": [
-    {
-    "id": 1,
-    "name": "Conspiracy",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 2,
-    "name": "Murder or suicide ?",
-    "category": "Dark",
-    "image_url": "https://i.kym-cdn.com/entries/icons/mobile/000/042/119/cover4.jpg"
-    },
-    {
-    "id": 3,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 4,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 5,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 6,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 7,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 8,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 9,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 10,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 11,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 12,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 13,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 14,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 15,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 16,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 17,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 18,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 19,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 20,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    },
-    {
-    "id": 21,
-    "name": "Cringey Moments",
-    "category": "Nonsensical",
-    "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
-    }
+        {
+            "id": 1,
+            "name": "Conspiracy",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Murder or suicide ?",
+            "category": "Dark",
+            "image_url": "https://i.kym-cdn.com/entries/icons/mobile/000/042/119/cover4.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Cringey Moments",
+            "category": "Nonsensical",
+            "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg"
+        }
     ]
-    }
-    
+}
