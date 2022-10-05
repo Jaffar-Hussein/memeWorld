@@ -1,7 +1,25 @@
 .App {
   text-align: center;
 }
-
+body{
+  background: linear-gradient(180deg, rgba(20, 30, 48, 0.2) 40.1%, rgba(20, 30, 48, 0.2) 51.04%, rgba(36, 59, 85, 0) 100%), #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.MemeCards{
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.3) 100%) !important;
+  border: 2px solid #FFFFFF;
+  box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px !important;
+}
+.cardHolder{
+  padding: 15px;
+  border-radius: 7px;
+}
+.pop{
+  color:#BC6C25;
+  text-align:left;  
+  letter-spacing: 9px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
