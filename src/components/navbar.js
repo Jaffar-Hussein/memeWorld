@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import './App.css';
+import '../App.css';
 
 function Navbar() {
     const [categories, setCategories] = useState([]);
@@ -17,7 +17,7 @@ function Navbar() {
     })
 
     return (
-        <nav className="navbar navbar-expand-lg">
+        <nav className="navbar navbar-expand-lg ">
             <div className="container-fluid">
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,7 +44,7 @@ function Navbar() {
                     </ul>
                     <ul className="navbar-nav me-auto mb-2 ">
                         <li className="nav-item mx-2">
-                            <button className="btn btn-primary btn-sm">Upload</button>
+                            <button className="btn btn-success btn-sm btns">Upload</button>
                         </li>
 
                     </ul>

@@ -1,7 +1,7 @@
 import React, {useEffect,useState} from 'react';
 import './App.css';
-import Navbar from './navbar';
-import Cards from './cards';
+import Navbar from './components/navbar';
+import Cards from './components/cards';
 
 const URL = "http://localhost:8002/memes";
 
