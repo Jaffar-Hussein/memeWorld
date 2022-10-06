@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "Nonsencial"
+      "name": "Nonsensical"
     },
     {
       "name": "Classic"
@@ -18,7 +18,7 @@
       "id": 1,
       "name": "Murder or suicide ?",
       "category": "Dark",
-      "image_url": "https://i.kym-cdn.com/entries/icons/mobile/000/042/119/cover4.jpg"
+      "image_url":  "https://i.kym-cdn.com/entries/icons/mobile/000/042/119/cover4.jpg"
     },
     {
       "id": 2,
