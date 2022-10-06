@@ -5,7 +5,7 @@ import '../assets/fav.png';
 
 function MemeCard({ memes, type, updated }) {
 
-  function onAddFav() {
+  function onAddFav(){
     fetch(`http://localhost:8002/${type}/${memes.id}`, {
       method: "PATCH",
       headers: {
@@ -30,7 +30,7 @@ function MemeCard({ memes, type, updated }) {
         <div className='d-flex justify-content-between'>
           <em className=''>{memes.category}</em>
 
-          <a onClick={ onAddFav}>
+          <a onClick={onAddFav}>
             <img src={memes.is_fav ? require('../assets/fav.png') : require('../assets/outliine.png')} />
           </a>
         </div>

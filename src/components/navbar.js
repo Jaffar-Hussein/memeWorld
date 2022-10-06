@@ -27,19 +27,19 @@ function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0 mx-auto">
                         <li className="nav-item mx-2">
-                            <NavLink className="nav-link active  text-black" aria-current="page" to="/" >Home</NavLink>
+                            <NavLink className="nav-link active  text-black" aria-current="page" end to="/"    >Home</NavLink>
                         </li>
                         {all_categories}
 
                     </ul>
                     <ul className="navbar-nav">
                         <li className="nav-item list-unstyled ">
-                            <NavLink className="nav-link text-black brand">Meme world</NavLink>
+                            <NavLink className="nav-link text-black brand" to="/">Meme world</NavLink>
                         </li>
                     </ul>
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0 mx-auto ">
                         <li className="nav-item mx-2">
-                            <NavLink className="nav-link text-black"  > Favourites </NavLink>
+                            <NavLink className="nav-link text-black"  to="/favourites"> Favourites </NavLink>
                         </li>
 
                     </ul>

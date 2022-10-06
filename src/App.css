@@ -42,7 +42,9 @@ body {
   box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 16px;
 }
-
+.uploadTitle{
+  color:#BC6C25;
+}
 .pop {
   color: #BC6C25;
   text-align: left;

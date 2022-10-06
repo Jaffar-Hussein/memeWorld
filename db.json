@@ -19,14 +19,14 @@
       "name": "Murder or suicide ?",
       "category": "Dark",
       "image_url": "https://i.kym-cdn.com/entries/icons/mobile/000/042/119/cover4.jpg",
-      "is_fav": false
+      "is_fav": true
     },
     {
       "id": 2,
       "name": "Murder or suicide ?",
       "category": "Dark",
       "image_url": "https://i.kym-cdn.com/entries/icons/mobile/000/042/119/cover4.jpg",
-      "is_fav": true
+      "is_fav": false
     },
     {
       "is_fav": false,
@@ -47,7 +47,7 @@
       "name": "Murder or suicide ?",
       "category": "Dark",
       "image_url": "https://i.kym-cdn.com/entries/icons/mobile/000/042/119/cover4.jpg",
-      "is_fav": true
+      "is_fav": false
     }
   ],
   "funny": [
@@ -70,7 +70,7 @@
       "name": "Cringey Moments",
       "category": "Nonsensical",
       "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg",
-      "is_fav": true
+      "is_fav": false
     },
     {
       "id": 5,
@@ -100,7 +100,7 @@
       "name": "Murder or suicide ?",
       "category": "Dark",
       "image_url": "https://i.kym-cdn.com/entries/icons/mobile/000/042/119/cover4.jpg",
-      "is_fav": false
+      "is_fav": true
     },
     {
       "is_fav": false,
@@ -205,7 +205,7 @@
       "name": "Cringey Moments",
       "category": "Nonsensical",
       "image_url": "https://cdn.memes.com/up/24246901585609535/i/1664644544814.jpg",
-      "is_fav": false
+      "is_fav": true
     },
     {
       "id": 18,
@@ -236,25 +236,11 @@
       "is_fav": false
     },
     {
-      "name": "water",
-      "category": "Dark",
+      "name": "Jaffar",
+      "category": "Nonsensical",
       "image_url": "https://picsum.photos/200/300",
-      "id": 22,
-      "is_fav": false
-    },
-    {
-      "name": "Wood",
-      "category": "Classic",
-      "image_url": "https://picsum.photos/200/300",
-      "id": 23,
-      "is_fav": false
-    },
-    {
-      "name": "Yahya",
-      "category": "Social Media",
-      "image_url": "https://picsum.photos/200/300",
-      "id": 24,
-      "is_fav": false
+      "is_fav": "false",
+      "id": 22
     }
   ]
 }

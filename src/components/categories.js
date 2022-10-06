@@ -10,12 +10,23 @@ let {category} = useParams();
         .then(response => response.json())
             .then((cat) => setFiltered(cat));
     })
+    function updated(items) {
+        const updatedItems = filtered.map((meme) => {
+          if (items.id === meme.id) {
+            return items;
+          }
+          else {
+            return meme;
+          }
+        });
+        setFiltered(updatedItems);
+      }
     return(
        <div>
        <Navbar/>
         <div className="container my-5">
             <p className="h5 pop" >{category}</p>
-            <Cards memes={filtered} key={filtered.id} />
+            <Cards memes={filtered} key={filtered.id} updated={updated} type="memes"/>
         </div>
        </div>
     );
