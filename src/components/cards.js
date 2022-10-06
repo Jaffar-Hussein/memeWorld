@@ -5,7 +5,6 @@ import MemeCard from './memeCard';
 import '../App.css'
 
 function Cards({memes}) {
-    console.log(memes);
   return (
     <Container fluid="md" className='mx-auto'>
       <Row className="justify-content-center mx-auto mt-4">

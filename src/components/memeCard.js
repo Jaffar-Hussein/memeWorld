@@ -1,5 +1,4 @@
 import Card from 'react-bootstrap/Card';
-import App from '../App';
 import '../App.css' 
 
 function memeCard({memes}) {

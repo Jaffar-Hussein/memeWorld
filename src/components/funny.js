@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import Card from 'react-bootstrap/Card';
 import Cards from "./cards";
 import '../App.css'
 function Funny(){

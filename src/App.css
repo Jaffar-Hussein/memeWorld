@@ -17,6 +17,24 @@ body{
   padding: 15px;
   border-radius: 7px;
 }
+.all{
+  background: linear-gradient(180deg, rgba(20, 30, 48, 0.2) 40.1%, rgba(20, 30, 48, 0.2) 51.04%, rgba(36, 59, 85, 0) 100%), #FFFFFF;
+  height: 100vh;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+.memeload{
+  position: relative;
+  height: 80vh;
+}
+.upload{
+  position: absolute !important;
+  top: 50%;
+   left: 50%; 
+  transform: translate(-50%,-50%);
+   background: linear-gradient(180deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.3) 100%);
+border: 2px solid #FFFFFF;
+box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 16px; 
+}
 .pop{
   color:#BC6C25;
   text-align:left;  
@@ -34,7 +52,7 @@ body{
 }
 
 .brand {
-  font-family: 'Sacramento';
+  font-family: 'sacramento-regular', sans-serif;
   font-size: 22px
 }
 
