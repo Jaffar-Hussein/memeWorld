@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Cards from "./cards";
 import '../App.css'
-function Popular() {
+function Popular({onAddFav}) {
     const [popular, setPopular] = useState([]);
 
     useEffect(() => {
@@ -13,7 +13,7 @@ function Popular() {
     return (
         <div className="container">
             <p className="h5 pop my-2" >POPULAR</p>
-            <Cards memes={popular} />
+            <Cards memes={popular} type="popular" onAddFav={onAddFav} />
         </div>
 
 

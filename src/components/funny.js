@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Cards from "./cards";
 import '../App.css'
-function Funny(){
+function Funny({ onAddFav }) {
     const [funny, setfunny] = useState([]);
 
     useEffect(() => {
@@ -13,7 +13,7 @@ function Funny(){
     return (
         <div className="container my-5">
             <p className="h5 pop" >FUNNY</p>
-            <Cards memes={funny} />
+            <Cards memes={funny} type="funny" onAddFav={onAddFav} />
         </div>
 
 
