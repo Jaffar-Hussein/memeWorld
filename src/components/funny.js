@@ -5,7 +5,7 @@ function Funny({ onAddFav }) {
     const [funny, setfunny] = useState([]);
 
     useEffect(() => {
-        fetch("http://localhost:8002/funny")
+        fetch("https://meme-pages.herokuapp.com/funny")
             .then(response => response.json())
             .then((fun) => setfunny(fun));
     }, [])

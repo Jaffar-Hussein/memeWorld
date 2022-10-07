@@ -9,7 +9,7 @@ import UploadMeme from './components/uploadMeme';
 import Categories from './components/categories';
 import Fav from './components/fav';
 
-const URL = "http://localhost:8002/memes";
+const URL = "https://meme-pages.herokuapp.com/memes";
 
 function App() {
   let navigate = useNavigate();
@@ -45,7 +45,7 @@ function App() {
 
     const formData = { name: records.name, category: records.category, image_url: records.image_url, is_fav: "false" };
 
-    fetch("http://localhost:8002/memes", {
+    fetch("https://meme-pages.herokuapp.com/memes", {
       method: "POST",
       headers: {
         'Content-type': 'application/json; charset=UTF-8',

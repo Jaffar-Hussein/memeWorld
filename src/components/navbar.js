@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 function Navbar() {
     const [categories, setCategories] = useState([]);
     useEffect(() => {
-        fetch("http://localhost:8002/categories")
+        fetch("https://meme-pages.herokuapp.com/categories")
             .then(response => response.json())
             .then((cat) => setCategories(cat));
     }, []);

@@ -9,18 +9,18 @@ function Fav() {
 
 
     useEffect(() => {
-        fetch("http://localhost:8002/memes?is_fav=true")
+        fetch("https://meme-pages.herokuapp.com/memes?is_fav=true")
             .then(r => r.json())
             .then(data => setMemes(data))
     },
         []);
     useEffect(() => {
-        fetch("http://localhost:8002/popular?is_fav=true")
+        fetch("https://meme-pages.herokuapp.com/popular?is_fav=true")
             .then(r => r.json())
             .then(data => setPopular(data))
     }, []);
     useEffect(() => {
-        fetch("http://localhost:8002/funny?is_fav=true")
+        fetch("https://meme-pages.herokuapp.com/funny?is_fav=true")
             .then(r => r.json())
             .then(data => setFunnyMemes(data))
     },

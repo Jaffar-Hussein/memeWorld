@@ -9,7 +9,7 @@ function UploadMeme({ handleSubmit, handleChange }) {
 
 
     useEffect(() => {
-        fetch("http://localhost:8002/categories")
+        fetch("https://meme-pages.herokuapp.com/categories")
             .then(response => response.json())
             .then((cat) => setCategories(cat));
     }, []);

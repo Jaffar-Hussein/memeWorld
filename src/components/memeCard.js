@@ -6,7 +6,7 @@ import '../assets/fav.png';
 function MemeCard({ memes, type, updated }) {
 
   function onAddFav(){
-    fetch(`http://localhost:8002/${type}/${memes.id}`, {
+    fetch(`https://meme-pages.herokuapp.com/okuapp.com/${type}/${memes.id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",

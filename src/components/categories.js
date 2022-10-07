@@ -6,7 +6,7 @@ function Categories(){
 let {category} = useParams();
     const [filtered, setFiltered] = useState([]);
     useEffect(()=>{
-        fetch(`http://localhost:8002/memes?category=${category}`)
+        fetch(`https://meme-pages.herokuapp.com/memes?category=${category}`)
         .then(response => response.json())
             .then((cat) => setFiltered(cat));
     })
