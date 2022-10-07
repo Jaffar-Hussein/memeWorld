@@ -1,7 +1,7 @@
 # MEME WORLD 
 
 
-# [LIVE SITE](https://633ed937d18e9e03c6d50318--jaffar-memeworld.netlify.app/)
+# [LIVE SITE](https://meme-world.netlify.app/)
 
 
 <img width="1440" alt="Screenshot 2022-10-07 at 08 11 31" src="https://user-images.githubusercontent.com/57854451/194479720-29c39f80-2ff6-4427-8c7b-b4e21ab1b96d.png">
