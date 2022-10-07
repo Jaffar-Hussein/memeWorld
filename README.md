@@ -1,4 +1,5 @@
-# MEME WORLD
+# MEME WORLD 
+
 
 # [LIVE SITE](https://633ed937d18e9e03c6d50318--jaffar-memeworld.netlify.app/)
 
@@ -19,3 +20,7 @@ Voila opens on the browser
 
 ~~~
 # [License](https://github.com/Jaffar-Hussein/MemeWorld/blob/master/LICENSE) 
+
+# [Email ](jaffar.gura@student.moringaschool.com)
+
+### Happily accepting emails on questions or remarks
