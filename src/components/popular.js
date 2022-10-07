@@ -5,7 +5,7 @@ function Popular({ onAddFav }) {
     const [popular, setPopular] = useState([]);
 
     useEffect(() => {
-        fetch("https://meme-pages.herokuapp.com/")
+        fetch("https://meme-pages.herokuapp.com/popular")
             .then(response => response.json())
             .then((pop) => setPopular(pop));
     }, [])
